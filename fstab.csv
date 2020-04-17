@@ -1,0 +1,3 @@
+Device,Mount-Point,FS-Type,Options,Dump,Pass-Num
+UUID=6b06e74c-21ef-45b0-bf84-9e7aca824481,/,xfs,defaults,0,0
+UUID=6b06e74c-21ef-45b0-bf84-9e7aca824481,/media/mana/DATA,xfs,defaults,0,0
